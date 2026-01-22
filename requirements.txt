@@ -1,9 +1,7 @@
 streamlit
 pandas
-vaderSentiment 
-scikit-learn 
-wordcloud
-numpy 
+numpy
+scikit-learn
+vaderSentiment
 matplotlib
-math
-pathlib
+wordcloud
