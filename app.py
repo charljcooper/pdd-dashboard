@@ -1,12 +1,13 @@
 import streamlit as st
 import pandas as pd
 import math
-from pathlib import Path
 import pathlib
+import scikit-learn
+import vaderSentiment
+import matplotlib
+import wordcloud
 
 app_code = r'''
-# Run this once in Colab:
-!pip install streamlit vaderSentiment scikit-learn wordcloud pandas numpy matplotlib
 import pandas as pd
 import numpy as np
 import streamlit as st
