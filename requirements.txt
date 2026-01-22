@@ -5,3 +5,5 @@ scikit-learn
 wordcloud
 numpy 
 matplotlib
+math
+pathlib
