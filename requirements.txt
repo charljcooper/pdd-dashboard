@@ -1,2 +1,7 @@
 streamlit
 pandas
+vaderSentiment 
+scikit-learn 
+wordcloud
+numpy 
+matplotlib
