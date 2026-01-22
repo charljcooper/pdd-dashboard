@@ -8,7 +8,7 @@ from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 
-st.set_page_config(page_title="Reddit Topics & Sentiment (PD Discourse)", layout="wide")
+st.set_page_config(page_title="Reddit Parkinson's Discourse Overview: Topics & Sentiment", layout="wide")
 
 TEXT_COL = "extra_cleaned_text"
 
